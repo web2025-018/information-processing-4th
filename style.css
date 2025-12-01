@@ -1,0 +1,20 @@
+h1 { 
+    color:#48D1CC;
+}
+
+h2 {
+    color:#B0E0E6;
+}
+
+h3{
+    color:green;
+    font-weight: lighter;
+}
+
+p.note {
+    border: thin gray solid;
+    margin: 1.5em 3em;
+    padding: 0.5em;
+    background-color: #FFFF99; 
+    font-size: 12pt;
+}
